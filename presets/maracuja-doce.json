@@ -1,0 +1,8 @@
+{
+  "name": "Maracujá doce",
+  "icon": "maracuja-doce",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

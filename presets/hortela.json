@@ -1,0 +1,8 @@
+{
+  "name": "Hortelã",
+  "icon": "hortela",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

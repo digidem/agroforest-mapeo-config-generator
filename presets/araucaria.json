@@ -1,0 +1,8 @@
+{
+  "name": "Araucária",
+  "icon": "araucaria",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

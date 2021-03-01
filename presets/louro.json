@@ -1,0 +1,8 @@
+{
+  "name": "Louro",
+  "icon": "louro",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

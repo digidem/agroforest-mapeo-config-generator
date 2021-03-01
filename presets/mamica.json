@@ -1,0 +1,8 @@
+{
+  "name": "Mamica",
+  "icon": "mamica",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

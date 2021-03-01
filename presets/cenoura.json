@@ -1,0 +1,8 @@
+{
+  "name": "Cenoura",
+  "icon": "cenoura",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

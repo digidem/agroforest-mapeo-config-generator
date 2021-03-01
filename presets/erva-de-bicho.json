@@ -1,0 +1,8 @@
+{
+  "name": "Erva-de-bicho",
+  "icon": "erva-de-bicho",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

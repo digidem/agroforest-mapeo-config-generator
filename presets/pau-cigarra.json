@@ -1,0 +1,8 @@
+{
+  "name": "Pau-cigarra",
+  "icon": "pau-cigarra",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

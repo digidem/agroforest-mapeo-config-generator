@@ -1,0 +1,8 @@
+{
+  "name": "Girassol",
+  "icon": "girassol",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

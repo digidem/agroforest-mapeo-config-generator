@@ -1,0 +1,8 @@
+{
+  "name": "Erva-de-passarinho",
+  "icon": "erva-de-passarinho",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

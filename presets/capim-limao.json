@@ -1,0 +1,8 @@
+{
+  "name": "Capim-limão",
+  "icon": "capim-limao",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sangra d’água",
+  "icon": "sangra-d-agua",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

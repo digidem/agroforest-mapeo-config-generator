@@ -1,0 +1,8 @@
+{
+  "name": "Serralha",
+  "icon": "serralha",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

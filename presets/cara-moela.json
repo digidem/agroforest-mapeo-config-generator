@@ -1,0 +1,8 @@
+{
+  "name": "Cará-moela",
+  "icon": "cara-moela",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

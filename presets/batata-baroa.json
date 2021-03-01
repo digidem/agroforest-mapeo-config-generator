@@ -1,0 +1,8 @@
+{
+  "name": "Batata-baroa",
+  "icon": "batata-baroa",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

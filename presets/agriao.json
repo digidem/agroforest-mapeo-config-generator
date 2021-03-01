@@ -1,0 +1,8 @@
+{
+  "name": "Agrião",
+  "icon": "agriao",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Rúcula",
+  "icon": "rucula",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

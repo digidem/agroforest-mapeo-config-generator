@@ -1,0 +1,8 @@
+{
+  "name": "Pitomba",
+  "icon": "pitomba",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

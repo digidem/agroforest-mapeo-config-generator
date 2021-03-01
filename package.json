@@ -1,0 +1,32 @@
+{
+  "name": "agroforest-mapeo-config-generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdirp build && mapeo-settings build -l 'pt' -o build/${npm_package_name}-v${npm_package_version}.mapeosettings",
+    "extract-messages": "mkdirp messages && mapeo-settings extract-messages -o messages/en.json",
+    "prepublishOnly": "rimraf dist && mkdirp dist && npm run -s build && tar -C dist -xf build/${npm_package_name}-v${npm_package_version}.mapeosettings",
+    "test": "mapeo-settings lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sindresorhus/slugify": "^1.1.0",
+    "@vitalets/google-translate-api": "^5.0.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "google-spreadsheet-to-json": "^1.0.0",
+    "mkdirp": "^1.0.4",
+    "node-fetch": "^2.6.1",
+    "oauth": "^0.9.15",
+    "open": "^7.4.2",
+    "potrace": "^2.1.8",
+    "svgo": "^2.1.0"
+  },
+  "devDependencies": {
+    "@luandro/mapeo-settings-builder": "^3.3.0",
+    "mkdirp": "^1.0.4",
+    "rimraf": "^3.0.2"
+  }
+}

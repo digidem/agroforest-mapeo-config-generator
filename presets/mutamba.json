@@ -1,0 +1,8 @@
+{
+  "name": "Mutamba",
+  "icon": "mutamba",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

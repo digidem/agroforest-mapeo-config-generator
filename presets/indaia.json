@@ -1,0 +1,8 @@
+{
+  "name": "Indaiá",
+  "icon": "indaia",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

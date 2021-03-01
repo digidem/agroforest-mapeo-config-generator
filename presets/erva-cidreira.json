@@ -1,0 +1,8 @@
+{
+  "name": "Erva-cidreira",
+  "icon": "erva-cidreira",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

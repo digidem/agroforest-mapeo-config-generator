@@ -1,0 +1,8 @@
+{
+  "name": "Trapoeraba",
+  "icon": "trapoeraba",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

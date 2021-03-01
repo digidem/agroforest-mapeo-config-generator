@@ -1,0 +1,7 @@
+{
+  "key": "lua",
+  "type": "select_multiple",
+  "label": "Lua em que foi plantada",
+  "placeholder": "Cheia/minguante/nova/crescente",
+  "options": ["Desconhecido", "Cheia", "Minguante", "Nova", "Crescente"]
+}

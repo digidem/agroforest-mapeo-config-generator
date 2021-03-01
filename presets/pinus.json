@@ -1,0 +1,8 @@
+{
+  "name": "Pinus",
+  "icon": "pinus",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

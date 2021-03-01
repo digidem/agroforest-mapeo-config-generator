@@ -1,0 +1,8 @@
+{
+  "name": "Almeirão",
+  "icon": "almeirao",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

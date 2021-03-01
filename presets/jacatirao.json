@@ -1,0 +1,8 @@
+{
+  "name": "Jacatirão",
+  "icon": "jacatirao",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

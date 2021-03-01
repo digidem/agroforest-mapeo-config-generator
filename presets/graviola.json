@@ -1,0 +1,8 @@
+{
+  "name": "Graviola",
+  "icon": "graviola",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

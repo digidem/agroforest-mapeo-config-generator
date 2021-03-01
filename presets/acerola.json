@@ -1,0 +1,8 @@
+{
+  "name": "Acerola",
+  "icon": "acerola",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

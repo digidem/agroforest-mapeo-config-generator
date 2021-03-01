@@ -1,0 +1,8 @@
+{
+  "name": "Feijão de vagem",
+  "icon": "feijao-de-vagem",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

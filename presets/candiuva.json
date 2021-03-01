@@ -1,0 +1,8 @@
+{
+  "name": "Candiúva",
+  "icon": "candiuva",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

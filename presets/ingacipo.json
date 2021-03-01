@@ -1,0 +1,8 @@
+{
+  "name": "Ingácipó",
+  "icon": "ingacipo",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

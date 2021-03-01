@@ -1,0 +1,8 @@
+{
+  "name": "Cúrcuma",
+  "icon": "curcuma",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

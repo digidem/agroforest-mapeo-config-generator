@@ -1,0 +1,8 @@
+{
+  "name": "Araruta",
+  "icon": "araruta",
+  "fields": ["manejo", "lua"],
+  "geometry": ["point", "area"],
+  "tags": { "type": "Plant" },
+  "terms": []
+}

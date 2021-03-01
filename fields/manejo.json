@@ -1,0 +1,14 @@
+{
+  "key": "manejo",
+  "type": "select_multiple",
+  "label": "Manejo da planta",
+  "placeholder": "Poda/aguar/colher",
+  "options": [
+    "Poda",
+    "Colher folhas",
+    "Colher frutos",
+    "Colher sementes",
+    "Colher raiz",
+    "Seca"
+  ]
+}
