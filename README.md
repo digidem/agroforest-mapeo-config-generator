@@ -14,7 +14,7 @@ Para versão de computador baixe o instalador para sua plataforma no [Github](ht
 
 ### Adicionando configurações
 
-A forma mais fácil é usar um arquivo de configuração que já foi gerado. Você pode baixar a última versão [aqui]().
+A forma mais fácil é usar um arquivo de configuração que já foi gerado. Você pode baixar a última versão [aqui](https://github.com/luandro/agroforest-mapeo-config-generator/releases).
 
 Depois no aplicativo do Mapeo use a opção de "Importar configurações" para carregar o arquivo.
 
