@@ -1,8 +1,1 @@
-{
-  "name": "Abacate",
-  "icon": "abacate",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}
+{"name":"Abacate","icon":"abacate","fields":["manejo","lua"],"geometry":["point","area"],"tags":{"type":"Plant"},"terms":[]}

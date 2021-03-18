@@ -1,8 +1,1 @@
-{
-  "name": "Abacaxi",
-  "icon": "abacaxi",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}
+{"name":"Abacaxi","icon":"abacaxi","fields":["manejo","lua"],"geometry":["point","area"],"tags":{"type":"Plant"},"terms":[]}

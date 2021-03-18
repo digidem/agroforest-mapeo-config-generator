@@ -1,8 +1,1 @@
-{
-  "name": "Acácia",
-  "icon": "acacia",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}
+{"name":"Acácia","icon":"acacia","fields":["manejo","lua"],"geometry":["point","area"],"tags":{"type":"Plant"},"terms":[]}
