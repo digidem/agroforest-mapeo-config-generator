@@ -1,8 +1,0 @@
-{
-  "name": "Cana-do-brejo",
-  "icon": "cana-do-brejo",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

@@ -1,8 +1,0 @@
-{
-  "name": "Erva-macaé",
-  "icon": "erva-macae",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

@@ -1,8 +1,0 @@
-{
-  "name": "Assa-peixe",
-  "icon": "assa-peixe",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

@@ -1,8 +1,0 @@
-{
-  "name": "Castanha do pará",
-  "icon": "castanha-do-para",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

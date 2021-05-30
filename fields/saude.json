@@ -1,0 +1,13 @@
+{
+    "key": "saude",
+    "type": "select_multiple",
+    "label": "Saúde da planta",
+    "placeholder": "",
+    "options": [
+      "Ataque de insetos",
+      "Folhas secas",
+      "Sinais de velhice",
+      "Doença",
+      "Solo descoberto"
+    ]
+  }

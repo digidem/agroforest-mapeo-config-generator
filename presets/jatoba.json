@@ -1,8 +1,0 @@
-{
-  "name": "Jatobá",
-  "icon": "jatoba",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

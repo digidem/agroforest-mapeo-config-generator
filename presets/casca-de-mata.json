@@ -1,8 +1,0 @@
-{
-  "name": "Casca-de-mata",
-  "icon": "casca-de-mata",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

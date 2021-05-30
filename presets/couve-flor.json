@@ -1,8 +1,0 @@
-{
-  "name": "Couve-flor",
-  "icon": "couve-flor",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

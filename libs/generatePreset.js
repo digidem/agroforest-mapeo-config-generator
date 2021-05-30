@@ -2,8 +2,8 @@ const fs = require("fs");
 const path = require("path");
 const slugify = require("@sindresorhus/slugify");
 
-module.exports = (term, plants) => {
-  const slugTerm = slugify(term);
+module.exports = (name, tags, plants) => {
+  const slugTerm = slugify(name);
   const toSave = path.join(process.cwd(), `presets/${slugTerm}.json`);
   const toSaveIcon100 = path.join(process.cwd(), `icons/${slugTerm}-100px.svg`);
   const toSaveIcon24 = path.join(process.cwd(), `icons/${slugTerm}-24px.svg`);
@@ -23,13 +23,11 @@ module.exports = (term, plants) => {
     toSaveIcon24
   );
   const result = {
-    name: term.charAt(0).toUpperCase() + term.slice(1),
+    name: name.charAt(0).toUpperCase() + name.slice(1),
     icon: slugTerm,
-    fields: ["manejo", "lua"],
+    fields: ["manejo", "lua", "saude", "ciclo"],
     geometry: ["point", "area"],
-    tags: {
-      type: "Plant"
-    },
+    tags,
     terms
   };
 

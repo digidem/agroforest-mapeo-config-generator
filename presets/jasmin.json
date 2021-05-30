@@ -1,8 +1,0 @@
-{
-  "name": "Jasmin",
-  "icon": "jasmin",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

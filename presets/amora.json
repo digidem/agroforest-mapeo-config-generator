@@ -1,8 +1,1 @@
-{
-  "name": "Amora",
-  "icon": "amora",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}
+{"name":"Amora","icon":"amora","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Arbóreas frutíferas"},"terms":[]}

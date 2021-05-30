@@ -1,8 +1,0 @@
-{
-  "name": "Gliricídia",
-  "icon": "gliricidia",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

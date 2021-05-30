@@ -1,8 +1,1 @@
-{
-  "name": "Agrião",
-  "icon": "agriao",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}
+{"name":"Agrião","icon":"agriao","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Hortícolas","estrato":"médio"},"terms":[]}

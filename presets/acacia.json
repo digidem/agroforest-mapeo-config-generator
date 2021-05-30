@@ -1,1 +1,1 @@
-{"name":"Acácia","icon":"acacia","fields":["manejo","lua"],"geometry":["point","area"],"tags":{"type":"Plant"},"terms":[]}
+{"name":"Acácia","icon":"acacia","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Arbóreas madeira, sementes e produtos","estrato":"alto"},"terms":[]}

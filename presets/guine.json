@@ -1,8 +1,0 @@
-{
-  "name": "Guiné",
-  "icon": "guine",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

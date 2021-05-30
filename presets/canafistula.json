@@ -1,8 +1,0 @@
-{
-  "name": "Canafístula",
-  "icon": "canafistula",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

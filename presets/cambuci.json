@@ -1,8 +1,0 @@
-{
-  "name": "Cambuci",
-  "icon": "cambuci",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

@@ -1,8 +1,0 @@
-{
-  "name": "Feijão de porco",
-  "icon": "feijao-de-porco",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

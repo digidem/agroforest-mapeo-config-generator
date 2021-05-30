@@ -1,8 +1,0 @@
-{
-  "name": "Fruta-pão",
-  "icon": "fruta-pao",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

@@ -1,8 +1,0 @@
-{
-  "name": "Café",
-  "icon": "cafe",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

@@ -1,1 +1,1 @@
-{"name":"Acerola","icon":"acerola","fields":["manejo","lua"],"geometry":["point","area"],"tags":{"type":"Plant"},"terms":[]}
+{"name":"Acerola","icon":"acerola","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Arbóreas frutíferas","estrato":"alto"},"terms":[]}

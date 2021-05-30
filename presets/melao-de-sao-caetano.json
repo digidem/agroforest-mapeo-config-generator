@@ -1,8 +1,0 @@
-{
-  "name": "Melão-de-são-caetano",
-  "icon": "melao-de-sao-caetano",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

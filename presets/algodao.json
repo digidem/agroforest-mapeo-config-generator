@@ -1,8 +1,1 @@
-{
-  "name": "Algodão",
-  "icon": "algodao",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}
+{"name":"Algodão","icon":"algodao","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Culturas agrícolas"},"terms":[]}

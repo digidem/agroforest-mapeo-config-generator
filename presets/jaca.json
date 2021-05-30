@@ -1,8 +1,0 @@
-{
-  "name": "Jaca",
-  "icon": "jaca",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

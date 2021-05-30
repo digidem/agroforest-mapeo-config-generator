@@ -2,13 +2,18 @@
   "key": "manejo",
   "type": "select_multiple",
   "label": "Manejo da planta",
-  "placeholder": "Poda/aguar/colher",
+  "placeholder": "Podar, plantar ou colher",
   "options": [
-    "Poda",
+    "Eliminar",
+    "Podar",
     "Colher folhas",
     "Colher frutos",
     "Colher sementes",
     "Colher raiz",
-    "Seca"
+    "Criar sombra",
+    "Abrir sol",
+    "Aguar",
+    "Adubar",
+    "Cobrir solo"
   ]
 }

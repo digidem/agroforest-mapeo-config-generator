@@ -1,8 +1,0 @@
-{
-  "name": "Orelha-demacaco",
-  "icon": "orelha-demacaco",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

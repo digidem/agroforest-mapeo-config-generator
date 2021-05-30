@@ -1,8 +1,0 @@
-{
-  "name": "Anis",
-  "icon": "anis",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

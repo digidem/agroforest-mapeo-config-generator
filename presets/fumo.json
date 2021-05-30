@@ -1,8 +1,0 @@
-{
-  "name": "Fumo",
-  "icon": "fumo",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

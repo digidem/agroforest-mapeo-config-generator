@@ -1,8 +1,0 @@
-{
-  "name": "Ora-pró-nóbis",
-  "icon": "ora-pro-nobis",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

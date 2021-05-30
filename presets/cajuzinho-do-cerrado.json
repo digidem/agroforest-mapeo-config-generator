@@ -1,8 +1,0 @@
-{
-  "name": "Cajuzinho do cerrado",
-  "icon": "cajuzinho-do-cerrado",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

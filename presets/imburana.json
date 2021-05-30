@@ -1,8 +1,0 @@
-{
-  "name": "Imburana",
-  "icon": "imburana",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

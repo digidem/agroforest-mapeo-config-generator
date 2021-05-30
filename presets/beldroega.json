@@ -1,8 +1,0 @@
-{
-  "name": "Beldroega",
-  "icon": "beldroega",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

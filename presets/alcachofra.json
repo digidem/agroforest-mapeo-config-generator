@@ -1,8 +1,1 @@
-{
-  "name": "Alcachofra",
-  "icon": "alcachofra",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}
+{"name":"Alcachofra","icon":"alcachofra","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Hortícolas"},"terms":[]}

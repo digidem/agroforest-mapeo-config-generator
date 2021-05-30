@@ -1,8 +1,0 @@
-{
-  "name": "Piaçava",
-  "icon": "piacava",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

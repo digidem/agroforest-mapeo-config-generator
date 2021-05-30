@@ -1,8 +1,0 @@
-{
-  "name": "Melancia",
-  "icon": "melancia",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

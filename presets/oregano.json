@@ -1,8 +1,0 @@
-{
-  "name": "Orégano",
-  "icon": "oregano",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

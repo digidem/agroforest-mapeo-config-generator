@@ -22,13 +22,13 @@ if (argument.split(".")[argument.split(".").length - 1] === "csv") {
 const {
   SHOW_IMAGE,
   NAME_IN_TABLE,
-  CATEGORY_IN_TABLE,
   COLOR_IN_TABLE,
-  ICON_DIR
+  ICON_DIR,
+  MAPEO_AGROFORESTRY_KEY
 } = process.env;
 const iconDir = ICON_DIR || "./pre-icons";
 
-async function getTermIcons(term, color) {
+async function getTermIcons(name, color, stratum, use, cycle) {
   /* Get plant information */
   const showImage = stringToBool(SHOW_IMAGE);
   // const plants = await plantCheck(term);
@@ -40,8 +40,8 @@ async function getTermIcons(term, color) {
   //   }
   // });
   /* Generate Mapeo presets */
-  await generatePreset(term);
-  console.log("Generated preset for", term);
+  await generatePreset(name, stratum, use, cycle);
+  console.log("Generated preset for", name);
   /* Download plant icons */
   let total = {
     downloads: 0
@@ -72,11 +72,11 @@ async function getTermIcons(term, color) {
   if (color) {
     translateColor = await translate(color);
   }
-  const translation = await translate(term);
+  const translation = await translate(name);
   console.log("Downloading translated: ", translation);
   const iconDlTranslations = await iconDownloader(
     translation,
-    term,
+    name,
     translateColor,
     iconDir
   );
@@ -95,8 +95,9 @@ async function run() {
       .on("end", async () => {
         for await (let plant of table) {
           const name = plant[NAME_IN_TABLE].toLowerCase();
+          const color = plant[COLOR_IN_TABLE].toLowerCase();
           console.log("Downloading for", name);
-          await getTermIcons(name);
+          await getTermIcons(name, color);
         }
       });
   } else if (isGoogleSpreadsheet) {
@@ -106,10 +107,22 @@ async function run() {
       spreadsheetId
     });
     for await (let plant of json) {
-      const name = plant[NAME_IN_TABLE].toLowerCase();
-      const color = plant[COLOR_IN_TABLE];
-      console.log("Downloading for", name);
-      await getTermIcons(name, color);
+      if (plant[NAME_IN_TABLE] && plant[COLOR_IN_TABLE]) {
+        const name = plant[NAME_IN_TABLE].toLowerCase();
+        const color = plant[COLOR_IN_TABLE].toLowerCase();
+        const tags = Object.entries(plant).reduce(
+          (prev, [key, value]) => {
+            if (key !== NAME_IN_TABLE && key !== COLOR_IN_TABLE) {
+              return Object.assign(prev, {
+                [key]: value
+              });
+            } else return prev;
+          },
+          { type: MAPEO_AGROFORESTRY_KEY || "agroforest" }
+        );
+        console.log("Downloading for", name);
+        await getTermIcons(name, color, tags);
+      }
     }
   } else {
     getTermIcons(argument);

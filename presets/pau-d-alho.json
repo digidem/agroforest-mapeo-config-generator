@@ -1,8 +1,0 @@
-{
-  "name": "Pau-d’alho",
-  "icon": "pau-d-alho",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}

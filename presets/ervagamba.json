@@ -1,8 +1,0 @@
-{
-  "name": "Ervagambá",
-  "icon": "ervagamba",
-  "fields": ["manejo", "lua"],
-  "geometry": ["point", "area"],
-  "tags": { "type": "Plant" },
-  "terms": []
-}
