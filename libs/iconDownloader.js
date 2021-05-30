@@ -8,6 +8,12 @@ const slugify = require("@sindresorhus/slugify");
 
 module.exports = async (searchTerm, originalTerm, color, tmpIconDir) => {
   const iconDir = path.join(tmpIconDir, slugify(originalTerm));
+  try {
+    const iconDirContent = fs.readdirSync(iconDir)
+    if (iconDirContent.length === 1) return false
+  } catch (err) {
+    console.log('Got error reading', iconDir)
+  }
   mkdirp(iconDir);
   if (!searchTerm || typeof searchTerm !== "string") throw Error;
   const { NOUN_KEY, NOUN_SECRET, ICONS_TO_DOWNLOAD } = process.env;
@@ -25,7 +31,7 @@ module.exports = async (searchTerm, originalTerm, color, tmpIconDir) => {
   );
   const fetch = url =>
     new Promise((resolve, reject) => {
-      oauth.get(url, null, null, (e, data, res) => {
+      oauth.get(url, null, null, (e, data) => {
         if (e) {
           console.log("Got error on fetching", url);
           resolve(false);

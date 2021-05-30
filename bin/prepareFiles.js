@@ -107,9 +107,9 @@ async function run() {
       spreadsheetId
     });
     for await (let plant of json) {
-      if (plant[NAME_IN_TABLE] && plant[COLOR_IN_TABLE]) {
+      if (plant[NAME_IN_TABLE]) {
         const name = plant[NAME_IN_TABLE].toLowerCase();
-        const color = plant[COLOR_IN_TABLE].toLowerCase();
+        const color = plant[COLOR_IN_TABLE] ? plant[COLOR_IN_TABLE].toLowerCase() : 'black';
         const tags = Object.entries(plant).reduce(
           (prev, [key, value]) => {
             if (key !== NAME_IN_TABLE && key !== COLOR_IN_TABLE) {

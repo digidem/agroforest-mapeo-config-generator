@@ -11,7 +11,7 @@ function sleep(ms) {
 
 async function runTranslate(searchTerm) {
   try {
-    const translation = await translate(searchTerm, { to: "en" });
+    const translation = await translate(searchTerm, { from: 'pt', to: "en" });
     return translation.text;
   } catch (err) {
     console.log("ERROR on translation", err);
