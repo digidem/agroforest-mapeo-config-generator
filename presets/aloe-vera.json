@@ -1,1 +1,1 @@
-{"name":"Aloe vera","icon":"aloe-vera","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Plantas medicinais e aromáticas"},"terms":[]}
+{"name":"Aloe vera","icon":"aloe-vera","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Plantas medicinais e aromáticas"},"terms":[]}

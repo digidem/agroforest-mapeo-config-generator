@@ -1,0 +1,7 @@
+{
+  "key": "estagio",
+  "type": "select_one",
+  "label": "Estágio da planta no ciclo",
+  "placeholder": "",
+  "options": ["Semeado", "Brotando", "Transplantada", "Frutificando", "Colhendo", "Envelhecida", "Rebrotando"]
+}

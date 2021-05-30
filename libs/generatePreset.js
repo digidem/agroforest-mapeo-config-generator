@@ -25,7 +25,7 @@ module.exports = (name, tags, plants) => {
   const result = {
     name: name.charAt(0).toUpperCase() + name.slice(1),
     icon: slugTerm,
-    fields: ["manejo", "lua", "saude", "ciclo"],
+    fields: ["manejo", "lua", "saude", "estagio"],
     geometry: ["point", "area"],
     tags,
     terms

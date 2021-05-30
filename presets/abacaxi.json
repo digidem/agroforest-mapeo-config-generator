@@ -1,1 +1,1 @@
-{"name":"Abacaxi","icon":"abacaxi","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Culturas agrícolas","estrato":"baixo","sucessão":"placenta"},"terms":[]}
+{"name":"Abacaxi","icon":"abacaxi","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","origem":"Continente Americano","tipo":"Culturas agrícolas","estrato":"baixo","sucessão":"placenta","ciclo":"20 meses","tempo_para_colheita":"20 meses","necessidade_de_água":"pouca"},"terms":[]}

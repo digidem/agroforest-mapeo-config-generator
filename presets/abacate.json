@@ -1,1 +1,1 @@
-{"name":"Abacate","icon":"abacate","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Arbóreas frutíferas","estrato":"alto","sucessão":"primária","ciclo":"15 anos"},"terms":[]}
+{"name":"Abacate","icon":"abacate","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas","estrato":"alto","sucessão":"primária","ciclo":"mais de 50 anos","tempo_brotamento":"60 dias","tempo_para_colheita":"7-9 anos","necessidade_de_água":"média"},"terms":[]}

@@ -4,6 +4,7 @@
   "label": "Manejo da planta",
   "placeholder": "Podar, plantar ou colher",
   "options": [
+    "Nenhum",
     "Eliminar",
     "Podar",
     "Colher folhas",

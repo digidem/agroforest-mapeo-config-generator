@@ -1,1 +1,1 @@
-{"name":"Acerola","icon":"acerola","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Arbóreas frutíferas","estrato":"alto"},"terms":[]}
+{"name":"Acerola","icon":"acerola","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","ciêntifico":"results/0/othname","origem":"Ambu, Mangot, Mangue, Manguier, Manga, Keri,","tipo":"Arbóreas frutíferas","estrato":"alto"},"terms":[]}

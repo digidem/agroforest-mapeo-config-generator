@@ -1,1 +1,1 @@
-{"name":"Abóbora","icon":"abobora","fields":["manejo","lua","saude","ciclo"],"geometry":["point","area"],"tags":{"type":"agroforest","uso":"Culturas agrícolas","estrato":"emergente"},"terms":[]}
+{"name":"Abóbora","icon":"abobora","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas","estrato":"emergente"},"terms":[]}

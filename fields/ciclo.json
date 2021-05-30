@@ -1,7 +1,0 @@
-{
-  "key": "ciclo",
-  "type": "select_one",
-  "label": "Saúde da planta",
-  "placeholder": "",
-  "options": ["Semeado", "Transplantado", "Frutificando", "Colheita", "Envelhecido"]
-}
