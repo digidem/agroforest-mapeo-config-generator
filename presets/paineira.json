@@ -1,1 +1,1 @@
-{"name":"Paineira","icon":"paineira","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Paineira","icon":"paineira","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Chorisia speciosa","família":"Malvaceae","estrato":"Alto","cicloDeVida":">50 anos","referencia":"Cartilha Liberdade e Vida"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Macaúba","icon":"macauba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Macaúba","icon":"macauba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","formaDeVida":"Palmeira","cicloDeColheita(d)":"6 - 12 anos","estrato":"Emergente","referencia":"."},"terms":[]}

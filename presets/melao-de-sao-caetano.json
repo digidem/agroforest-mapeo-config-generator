@@ -1,1 +1,1 @@
-{"name":"Melão-de-são-caetano","icon":"melao-de-sao-caetano","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Plantas medicinais e aromáticas"},"terms":[]}
+{"name":"Melão-de-são-caetano","icon":"melao-de-sao-caetano","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Momordica charantia","cicloDeColheita(d)":"60 - 120","estrato":".","estágio":"Trepadeira","referencia":"hortas.info/"},"terms":[]}

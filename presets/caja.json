@@ -1,1 +1,1 @@
-{"name":"Cajá","icon":"caja","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Cajá","icon":"caja","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Spondias mombin","família":"Anacardiaceae","formaDeVida":"Árvore","cicloDeColheita(d)":"5 anos","estrato":"Alto","cicloDeVida":">50 anos","estágio":"Secundária 2 e 3","referencia":"Cartilha Liberdade e Vida","espaçamento":"10,0 x 12,0"},"terms":[]}

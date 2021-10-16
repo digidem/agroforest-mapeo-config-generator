@@ -1,1 +1,1 @@
-{"name":"Teca","icon":"teca","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Teca","icon":"teca","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Tectona grandis","família":"Lamiaceae","formaDeVida":"Árvore","cicloDeColheita(d)":"20 - 30 anos","estrato":"Emergente","cicloDeVida":"Perene","estágio":"Secundária 3","referencia":"Agricultores que cultivam árvores"},"terms":[]}

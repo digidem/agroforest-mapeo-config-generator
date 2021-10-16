@@ -1,1 +1,1 @@
-{"name":"Palmeira-real","icon":"palmeira-real","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Palmeira-real","icon":"palmeira-real","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Archontophoenix alexandrae","família":"Arecaceae","estrato":".","referencia":"Agrofloresta Ecologia e Sociedade"},"terms":[]}

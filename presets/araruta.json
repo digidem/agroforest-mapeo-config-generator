@@ -1,1 +1,1 @@
-{"name":"Araruta","icon":"araruta","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Araruta","icon":"araruta","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cicloDeColheita(d)":"180 - 360","estrato":"Baixo","cicloDeVida":"3 anos","estágio":"Placenta 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"0,8 x 0,3"},"terms":[]}

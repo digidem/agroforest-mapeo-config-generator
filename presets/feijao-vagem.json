@@ -1,1 +1,1 @@
-{"name":"Feijão vagem","icon":"feijao-vagem","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Feijão-vagem","icon":"feijao-vagem","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Phaseolus vulgaris","cicloDeColheita(d)":"60 - 70","estrato":".","referencia":"."},"terms":[]}

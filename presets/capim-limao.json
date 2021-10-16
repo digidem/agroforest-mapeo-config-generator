@@ -1,1 +1,1 @@
-{"name":"Capim-limão","icon":"capim-limao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Plantas medicinais e aromáticas"},"terms":[]}
+{"name":"Capim-limão","icon":"capim-limao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Cymbopogon citratus","cicloDeColheita(d)":"90 - 120","estrato":".","referencia":"hortas.info/"},"terms":[]}

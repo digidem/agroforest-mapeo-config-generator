@@ -1,1 +1,1 @@
-{"name":"Tomilho","icon":"tomilho","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Tomilho","icon":"tomilho","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Thymus vulgaris","estrato":".","referencia":"hortas.info/"},"terms":[]}

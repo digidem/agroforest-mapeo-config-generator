@@ -1,1 +1,1 @@
-{"name":"Espinafre","icon":"espinafre","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Espinafre","icon":"espinafre","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Spinacia oleracea","cicloDeColheita(d)":"80 - 120","estrato":"Baixo / Médio","cicloDeVida":"6 meses","estágio":"Placenta 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"0,4 x 0,4"},"terms":[]}

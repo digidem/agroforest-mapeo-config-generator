@@ -1,1 +1,1 @@
-{"name":"Caqui","icon":"caqui","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Caqui","icon":"caqui","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Diospyrus kaki","família":"Ebenaceae","cicloDeColheita(d)":"3 anos","estrato":"Alto","cicloDeVida":"50 anos","estágio":"Secundária 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"7,0 x 6,0"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Andiroba","icon":"andiroba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Andiroba","icon":"andiroba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","formaDeVida":"Árvore","cicloDeColheita(d)":"4 anos (poda apical) - 20 anos (madeira)","estrato":"Emergente","estágio":"Climax","referencia":"agroflorestar.com","valor":"Excelente"},"terms":[]}

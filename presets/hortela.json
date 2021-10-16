@@ -1,1 +1,1 @@
-{"name":"Hortelã","icon":"hortela","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Plantas medicinais e aromáticas"},"terms":[]}
+{"name":"Hortelã","icon":"hortela","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Mentha","cicloDeColheita(d)":120,"estrato":"rasteiro","cicloDeVida":"3 anos","estágio":"Placenta 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"0,3 x 0,3"},"terms":[]}

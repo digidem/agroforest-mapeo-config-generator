@@ -1,1 +1,1 @@
-{"name":"Beterraba","icon":"beterraba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Beterraba","icon":"beterraba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Beta vulgaris","cicloDeColheita(d)":"70 - 90","estrato":"Medio / Alto","cicloDeVida":"4 meses","referencia":"."},"terms":[]}

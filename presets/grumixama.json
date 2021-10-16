@@ -1,1 +1,1 @@
-{"name":"Grumixama","icon":"grumixama","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Grumixama","icon":"grumixama","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Eugenia brasiliensis","família":"Myrtaceae","cicloDeColheita(d)":"5 anos","estrato":"Medio","cicloDeVida":">50 anos","estágio":"Secundária 2 e 3","referencia":"Cartilha Liberdade e Vida","espaçamento":"5,0 x 4,0"},"terms":[]}

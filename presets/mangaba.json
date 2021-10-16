@@ -1,1 +1,1 @@
-{"name":"Mangaba","icon":"mangaba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Mangaba","icon":"mangaba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Hancornia speciosa","família":"Apocynaceae","formaDeVida":"Árvore","cicloDeColheita(d)":"5 - 6 anos","estrato":"Alto","cicloDeVida":"50 anos","estágio":"Secundária 2 e 3","referencia":"Cartilha Liberdade e Vida","espaçamento":"6,0 x 4,0"},"terms":[]}

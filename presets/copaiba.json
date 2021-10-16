@@ -1,1 +1,1 @@
-{"name":"Copaíba","icon":"copaiba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Copaíba","icon":"copaiba","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Copaifera langsdorffii","família":"Fabaceae","cicloDeColheita(d)":"3 - 6 anos","estrato":"Alto / Emergente","cicloDeVida":">50 anos","estágio":"Secundário 2 e 3","referencia":"Cartilha Liberdade e Vida"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Abobrinha","icon":"abobrinha","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas","estrato":"emergente"},"terms":[]}
+{"name":"Abobrinha","icon":"abobrinha","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Cucurbita pepo","cicloDeColheita(d)":"45 - 80","estrato":".","referencia":"."},"terms":[]}

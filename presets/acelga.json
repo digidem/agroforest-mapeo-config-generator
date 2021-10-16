@@ -1,1 +1,1 @@
-{"name":"Acelga","icon":"acelga","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","ciêntifico":"results/0/botname","origem":"Mangifera Indica","tipo":"Hortícolas","estrato":"médio"},"terms":[]}
+{"name":"Acelga","icon":"acelga","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Beta vulgaris L. var. cicla","cicloDeColheita(d)":"55 - 65","estrato":"Medio","referencia":"agroflorestar.com"},"terms":[]}

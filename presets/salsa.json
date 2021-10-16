@@ -1,1 +1,1 @@
-{"name":"Salsa","icon":"salsa","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Salsa","icon":"salsa","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cicloDeColheita(d)":"50 - 70","estrato":"Baixo / Medio","estágio":"Placenta 1","referencia":"Agrofloresta Aprendendo a Produzir com a Natureza"},"terms":[]}

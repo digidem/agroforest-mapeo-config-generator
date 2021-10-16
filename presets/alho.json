@@ -1,1 +1,1 @@
-{"name":"Alho","icon":"alho","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Alho","icon":"alho","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Allium sativum","cicloDeColheita(d)":"112 - 252","estrato":"Medio","referencia":"agroflorestar.com"},"terms":[]}

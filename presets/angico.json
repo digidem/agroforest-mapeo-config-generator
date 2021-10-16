@@ -1,1 +1,1 @@
-{"name":"Angico","icon":"angico","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Angico","icon":"angico","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Anadenanthera colubrina","família":"Fabaceae","cicloDeColheita(d)":"> 30 anos","estrato":"Emergente","cicloDeVida":">50 anos","referencia":"Cartilha Liberdade e Vida"},"terms":[]}

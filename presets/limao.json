@@ -1,1 +1,1 @@
-{"name":"Limão","icon":"limao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Limão","icon":"limao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Citrus aurantifolia","família":"Rutaceae","cicloDeColheita(d)":"3 anos","estrato":"Baixo / Medio","cicloDeVida":"50 anos","estágio":"Secundária 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"7,0 x 5,0"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Cebola","icon":"cebola","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Cebola","icon":"cebola","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Allium cepa var. cepa","cicloDeColheita(d)":"85 - 300","estrato":"Medio","referencia":"agroflorestar.com"},"terms":[]}

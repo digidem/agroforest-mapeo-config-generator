@@ -1,1 +1,1 @@
-{"name":"Orégano","icon":"oregano","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Plantas medicinais e aromáticas"},"terms":[]}
+{"name":"Oregano","icon":"oregano","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Origanum vulgare","cicloDeColheita(d)":365,"estrato":"Baixo","referencia":"agroflorestar.com"},"terms":[]}

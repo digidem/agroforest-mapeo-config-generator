@@ -1,1 +1,1 @@
-{"name":"Cenoura","icon":"cenoura","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Cenoura","icon":"cenoura","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Daucus carota sativus","cicloDeColheita(d)":"85 - 110","estrato":"Baixo / Medio","estágio":"Placenta 1","referencia":"Agrofloresta Aprendendo a Produzir com a Natureza"},"terms":[]}

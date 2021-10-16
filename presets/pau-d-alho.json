@@ -1,1 +1,1 @@
-{"name":"Pau-d’alho","icon":"pau-d-alho","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Pau d'alho","icon":"pau-d-alho","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Gallesia integrifolia","família":"Phytolaccaceae","estrato":"Emergente","cicloDeVida":">50 anos","referencia":"Cartilha Liberdade e Vida"},"terms":[]}

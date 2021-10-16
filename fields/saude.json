@@ -4,8 +4,11 @@
     "label": "Saúde da planta",
     "placeholder": "",
     "options": [
+      "Saudável",
       "Ataque de insetos",
+      "Não desenvolve",
       "Secando",
+      "Folhas amareladas",
       "Sinais de velhice",
       "Doença",
       "Solo descoberto"

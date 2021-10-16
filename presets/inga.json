@@ -1,1 +1,1 @@
-{"name":"Ingá","icon":"inga","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Ingá","icon":"inga","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Inga capitata","família":"Fabaceae","formaDeVida":"Árvore","cicloDeColheita(d)":"2 anos","estrato":"Alto","cicloDeVida":"10 anos","estágio":"Secundária 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"7,0 x 7,0"},"terms":[]}

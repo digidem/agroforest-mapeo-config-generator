@@ -1,1 +1,1 @@
-{"name":"Couve-chinesa","icon":"couve-chinesa","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Couve-chinesa","icon":"couve-chinesa","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Brassica rapa","cicloDeColheita(d)":"55 - 110","estrato":".","referencia":"."},"terms":[]}

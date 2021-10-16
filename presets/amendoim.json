@@ -1,1 +1,1 @@
-{"name":"Amendoim","icon":"amendoim","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Amendoim","icon":"amendoim","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Arachis hypogaea","família":"Fabaceae","formaDeVida":"Erva","cicloDeColheita(d)":"100 - 180","estrato":"Baixo / Medio","cicloDeVida":"anual","referencia":"hortas.info/"},"terms":[]}

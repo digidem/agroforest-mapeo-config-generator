@@ -1,1 +1,1 @@
-{"name":"Batata","icon":"batata","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Batata","icon":"batata","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Solanum tuberosum L","família":"Solanaceae","formaDeVida":"Erva","cicloDeColheita(d)":120,"estrato":"Medio","cicloDeVida":"anual","referencia":"agroflorestar.com"},"terms":[]}

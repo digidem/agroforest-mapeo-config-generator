@@ -1,1 +1,1 @@
-{"name":"Cará","icon":"cara","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Cará","icon":"cara","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Dioscorea alata","família":"Dioscoreaceae","cicloDeColheita(d)":"150 - 365","estrato":"Alto","estágio":"Placenta 2","referencia":"Agrofloresta Ecologia e Sociedade"},"terms":[]}

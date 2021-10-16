@@ -1,1 +1,1 @@
-{"name":"Coentro","icon":"coentro","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Coentro","icon":"coentro","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Coriandrum sativum","cicloDeColheita(d)":"30 - 70","estrato":"Medio / Emergente","referencia":"."},"terms":[]}

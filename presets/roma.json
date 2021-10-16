@@ -1,1 +1,1 @@
-{"name":"Romã","icon":"roma","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Romã","icon":"roma","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cicloDeColheita(d)":"1 - 3 anos","estrato":"Medio / Alto","cicloDeVida":">50 anos","referencia":"Cartilha Liberdade e Vida"},"terms":[]}

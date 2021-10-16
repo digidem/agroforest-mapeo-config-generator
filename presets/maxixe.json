@@ -1,1 +1,1 @@
-{"name":"Maxixe","icon":"maxixe","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Maxixe","icon":"maxixe","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Cucumis anguria","cicloDeColheita(d)":"50 - 80","estrato":"Baixo","cicloDeVida":"6 meses","estágio":"Placenta 1 e 2","solo":"Pouco exigente","referencia":"Romulo","espaçamento":"0,3 x 0,3"},"terms":[]}

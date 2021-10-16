@@ -1,1 +1,1 @@
-{"name":"Chuchu","icon":"chuchu","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Chuchu","icon":"chuchu","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Sechium edule","cicloDeColheita(d)":"100 - 120","estrato":"Alto","cicloDeVida":"3 anos","estágio":"Secundario 1","referencia":"Cartilha SAF IPOEMA","espaçamento":"4 metros"},"terms":[]}

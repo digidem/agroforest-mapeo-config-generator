@@ -1,1 +1,1 @@
-{"name":"Algodão","icon":"algodao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","ciêntifico":"tfvcount","origem":1,"tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Algodão","icon":"algodao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cicloDeColheita(d)":540,"estrato":"Alto"},"terms":[]}

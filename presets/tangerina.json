@@ -1,1 +1,1 @@
-{"name":"Tangerina","icon":"tangerina","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Tangerina","icon":"tangerina","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cicloDeColheita(d)":"4 anos","estrato":"Medio","cicloDeVida":"50 anos","estágio":"Secundária 3","referencia":"Cartilha SAF IPOEMA","espaçamento":"6,0 x 4,0"},"terms":[]}

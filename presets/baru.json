@@ -1,1 +1,1 @@
-{"name":"Baru","icon":"baru","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Barú","icon":"baru","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Dipteryx alata Vogel","família":"Fabaceae","formaDeVida":"Árvore","cicloDeColheita(d)":"10 anos (poda apical) - 25 anos (madeira)","estrato":"Alto","cicloDeVida":">50 anos","estágio":"Climax","referencia":"Cartilha Liberdade e Vida","valor":"Excelente"},"terms":[]}

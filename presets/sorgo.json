@@ -1,0 +1,1 @@
+{"name":"Sorgo","icon":"sorgo","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cicloDeColheita(d)":90,"estrato":"Alto","referencia":"agroflorestar.com"},"terms":[]}

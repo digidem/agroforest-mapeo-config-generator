@@ -1,1 +1,1 @@
-{"name":"Bucha","icon":"bucha","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Bucha","icon":"bucha","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cicloDeColheita(d)":"150 - 365","estrato":"Emergente","referencia":"."},"terms":[]}

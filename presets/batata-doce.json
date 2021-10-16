@@ -1,1 +1,1 @@
-{"name":"Batata-doce","icon":"batata-doce","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Batata-doce","icon":"batata-doce","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cicloDeColheita(d)":"120 - 150","estrato":"rasteiro","cicloDeVida":"3 anos","estágio":"Placenta 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"0,8 x 0,3"},"terms":[]}

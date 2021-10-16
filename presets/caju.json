@@ -1,1 +1,1 @@
-{"name":"Caju","icon":"caju","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Cajú","icon":"caju","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Anacardium occidentale","família":"Anacardiaceae","formaDeVida":"Árvore","cicloDeColheita(d)":"2 anos","estrato":"Emergente","cicloDeVida":">50 anos","estágio":"Primárias","referencia":"Cartilha SAF IPOEMA","espaçamento":"10,0 x 8,0"},"terms":[]}

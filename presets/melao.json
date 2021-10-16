@@ -1,1 +1,1 @@
-{"name":"Melão","icon":"melao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Melão","icon":"melao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Cucumis melo","cicloDeColheita(d)":"60 - 140","estrato":"rasteiro","cicloDeVida":"6 meses","estágio":"Placenta 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"2,0 x 0,5"},"terms":[]}

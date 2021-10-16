@@ -1,1 +1,1 @@
-{"name":"Cedro","icon":"cedro","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas madeira, sementes e produtos"},"terms":[]}
+{"name":"Cedro","icon":"cedro","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Cedrela fissilis","família":"Meliaceae","cicloDeColheita(d)":"12 - 20 anos","estrato":"Alto / Emergente","cicloDeVida":">50 anos","estágio":"Secundária 2 e 3","referencia":"Cartilha Liberdade e Vida"},"terms":[]}

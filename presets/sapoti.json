@@ -1,1 +1,1 @@
-{"name":"Sapoti","icon":"sapoti","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Sapoti","icon":"sapoti","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Manilkara zapota","família":"Sapoteceae","estrato":".","referencia":"Agrofloresta Ecologia e Sociedade"},"terms":[]}

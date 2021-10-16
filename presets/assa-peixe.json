@@ -1,1 +1,1 @@
-{"name":"Assa-peixe","icon":"assa-peixe","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Plantas medicinais e aromáticas"},"terms":[]}
+{"name":"Assa-peixe","icon":"assa-peixe","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Vernonia polyanthes","família":"Asteraceae","estrato":".","referencia":"Agrofloresta Ecologia e Sociedade"},"terms":[]}

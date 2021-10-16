@@ -1,1 +1,1 @@
-{"name":"Arruda","icon":"arruda","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Plantas medicinais e aromáticas"},"terms":[]}
+{"name":"Arruda","icon":"arruda","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Ruta graveolens","cicloDeColheita(d)":"90 - 120","estrato":".","referencia":"hortas.info/"},"terms":[]}

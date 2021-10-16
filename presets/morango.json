@@ -1,1 +1,1 @@
-{"name":"Morango","icon":"morango","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Morango","icon":"morango","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Fragaria ananassa","cicloDeColheita(d)":"150 - 365","estrato":"Alto","referencia":"."},"terms":[]}

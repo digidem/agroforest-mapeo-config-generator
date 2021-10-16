@@ -1,1 +1,1 @@
-{"name":"Mamão","icon":"mamao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Mamão","icon":"mamao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Carica papaya","família":"Caricaceae","formaDeVida":"Árvore","cicloDeColheita(d)":"270 - 365","estrato":"Emergente","cicloDeVida":"10 anos","estágio":"Secundária 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"3,5 x 2,0"},"terms":[]}

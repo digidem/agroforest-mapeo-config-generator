@@ -1,1 +1,1 @@
-{"name":"Melancia","icon":"melancia","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Melancia","icon":"melancia","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Citrullus lanatus","cicloDeColheita(d)":"80 - 110","estrato":"rasteiro","cicloDeVida":"6 meses","estágio":"placenta 2","solo":"Mais exigente","referencia":"Cartilha SAF IPOEMA","espaçamento":"2,0 x 1,0"},"terms":[]}

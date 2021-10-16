@@ -1,1 +1,1 @@
-{"name":"Pepino","icon":"pepino","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Pepino","icon":"pepino","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Cucumis sativus","cicloDeColheita(d)":"45 - 80","estrato":"Emergente / Baixo","cicloDeVida":"6 meses","estágio":"Placenta 2","referencia":"Agrofloresta Aprendendo a Produzir com a Natureza","espaçamento":"2,0 x 1,0"},"terms":[]}

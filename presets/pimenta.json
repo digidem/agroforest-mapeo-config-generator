@@ -1,1 +1,1 @@
-{"name":"Pimenta","icon":"pimenta","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Pimenta","icon":"pimenta","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Capsicum spp.","família":"Solanaceae","formaDeVida":"Arbusto","cicloDeColheita(d)":"90 -120","estrato":"Medio","cicloDeVida":"Perene","estágio":"Placenta 2","referencia":"Romulo","espaçamento":"1,3 a 1,5","plantio":"Mudas"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Milho","icon":"milho","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Milho","icon":"milho","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Zea mays","família":"Poaceae","formaDeVida":"Erva","cicloDeColheita(d)":"90 - 120","estrato":"Emergente","cicloDeVida":"6 meses","estágio":"Placenta 2","referencia":"Cartilha SAF IPOEMA","espaçamento":"1,0 x 1,0"},"terms":[]}

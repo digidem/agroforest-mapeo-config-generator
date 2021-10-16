@@ -1,1 +1,1 @@
-{"name":"Pitanga","icon":"pitanga","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Pitanga","icon":"pitanga","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Eugenia uniflora","família":"Myrtaceae","cicloDeColheita(d)":"2 anos","estrato":"Medio / Alto","cicloDeVida":">50 anos","estágio":"Secundária 2 e 3","referencia":"Cartilha Liberdade e Vida","espaçamento":"4,0 x 5,0"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Fruta-pão","icon":"fruta-pao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Fruta-pão","icon":"fruta-pao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cicloDeColheita(d)":"3 - 5 anos","estrato":"Alto","cicloDeVida":">50 anos","estágio":"Secundária 2 e 3","referencia":"Cartilha Liberdade e Vida","espaçamento":"8,0 x 8,0"},"terms":[]}

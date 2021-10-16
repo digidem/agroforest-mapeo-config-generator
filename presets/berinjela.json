@@ -1,1 +1,1 @@
-{"name":"Berinjela","icon":"berinjela","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Berinjela","icon":"berinjela","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Solanum melongena","cicloDeColheita(d)":"100 - 120","estrato":"Alto","referencia":"."},"terms":[]}

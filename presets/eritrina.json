@@ -1,1 +1,1 @@
-{"name":"Eritrina","icon":"eritrina","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas adubaçao verde e massa verde"},"terms":[]}
+{"name":"Eritrina","icon":"eritrina","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Erythrina verna","família":"Fabaceae","estrato":".","referencia":"Agrofloresta Ecologia e Sociedade"},"terms":[]}

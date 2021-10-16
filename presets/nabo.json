@@ -1,1 +1,1 @@
-{"name":"Nabo","icon":"nabo","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Nabo","icon":"nabo","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Brassica rapa var. rapa","cicloDeColheita(d)":"40 - 80","estrato":"Medio","referencia":"agroflorestar.com"},"terms":[]}

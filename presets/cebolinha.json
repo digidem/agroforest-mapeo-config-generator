@@ -1,1 +1,1 @@
-{"name":"Cebolinha","icon":"cebolinha","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Cebolinha","icon":"cebolinha","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Allium schoenoprasum","cicloDeColheita(d)":"75 - 90","estrato":"Alto","cicloDeVida":"3 meses","referencia":"hortas.info/"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Graviola","icon":"graviola","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Graviola","icon":"graviola","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Annona muricata","família":"Annonaceae","cicloDeColheita(d)":"3 - 4 anos","estrato":"Medio","cicloDeVida":"50 anos","estágio":"Secundária 2 e 3","referencia":"Cartilha Liberdade e Vida","espaçamento":"6,0 x 6,0"},"terms":[]}

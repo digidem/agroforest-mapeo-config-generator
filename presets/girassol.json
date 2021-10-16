@@ -1,1 +1,1 @@
-{"name":"Girassol","icon":"girassol","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Girassol","icon":"girassol","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Helianthus annuus","cicloDeColheita(d)":"70 - 130","estrato":"Alto / Emergente","cicloDeVida":"6 meses","estágio":"Placenta 1 e 2","referencia":"Cartilha Liberdade e Vida","espaçamento":"1,0 x 0,5"},"terms":[]}

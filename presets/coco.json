@@ -1,1 +1,1 @@
-{"name":"Côco","icon":"coco","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Culturas agrícolas"},"terms":[]}
+{"name":"Côco","icon":"coco","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Cocos nucifera","família":"Arecaceae","formaDeVida":"Palmeira","cicloDeColheita(d)":"3 anos","estrato":"Emergente","cicloDeVida":">50 anos","estágio":"Primárias","referencia":"Cartilha SAF IPOEMA","espaçamento":"9,0 x 9,0"},"terms":[]}

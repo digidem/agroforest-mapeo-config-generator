@@ -1,1 +1,1 @@
-{"name":"Figo","icon":"figo","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Figo","icon":"figo","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Ficus guaranitica","família":"Moraceae","cicloDeColheita(d)":"3 anos","estrato":"Alto","cicloDeVida":">50 anos","estágio":"Secundária 2 e 3","referencia":"Cartilha Liberdade e Vida","espaçamento":"3,0 x 2,0"},"terms":[]}

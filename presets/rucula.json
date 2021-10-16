@@ -1,1 +1,1 @@
-{"name":"Rúcula","icon":"rucula","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Rúcula","icon":"rucula","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Eruca sativa","cicloDeColheita(d)":"30 - 40","estrato":"Medio","estágio":"Placenta 1","referencia":"Agrofloresta Aprendendo a Produzir com a Natureza"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Pimentão","icon":"pimentao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Pimentão","icon":"pimentao","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Capsicum annuum","cicloDeColheita(d)":"84 - 112","estrato":"Medio / Alto","cicloDeVida":"3 meses","estágio":"Placenta 1","referencia":"Cartilha SAF IPOEMA","espaçamento":"0,5 x 0,5"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Beldroega","icon":"beldroega","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Beldroega","icon":"beldroega","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Portulaca oleracea","cicloDeColheita(d)":"60 - 80","estrato":".","referencia":"hortas.info/"},"terms":[]}

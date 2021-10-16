@@ -1,1 +1,1 @@
-{"name":"Araçá","icon":"araca","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Arbóreas frutíferas"},"terms":[]}
+{"name":"Araça","icon":"araca","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Psidium araca","família":"Myrtaceae","estrato":".","referencia":"Agrofloresta Ecologia e Sociedade"},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Mostarda","icon":"mostarda","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Mostarda","icon":"mostarda","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Brassica juncea","cicloDeColheita(d)":"40 - 70","estrato":".","cicloDeVida":"5 meses","referencia":"."},"terms":[]}

@@ -1,1 +1,1 @@
-{"name":"Gengibre","icon":"gengibre","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","tipo":"Hortícolas"},"terms":[]}
+{"name":"Gengibre","icon":"gengibre","fields":["manejo","lua","saude","estagio"],"geometry":["point","area"],"tags":{"type":"agroforest","cientifico":"Zingiber officinale","cicloDeColheita(d)":"210 - 365","estrato":"Baixo / Medio","cicloDeVida":"3 anos","estágio":"Placenta 1 e 2","referencia":"Agrofloresta Aprendendo a Produzir com a Natureza","espaçamento":"0,7 x 0,3"},"terms":[]}
